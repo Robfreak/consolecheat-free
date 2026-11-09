@@ -8,8 +8,8 @@
 const ADD_HASH = "93eb198753e06cba3a30ed3a6cd3abc1f1214c11031ffc5b0a5ca6d08c77061f";
 const ENDPOINT = "https://web.np.playstation.com/api/graphql/v1/op";
 const CATALOGS = [
+  "https://free.consolecheat.com/public/data/games/",
   "https://free.consolecheat.com/data/games/",
-  "https://robfreak.github.io/consolecheat-free/data/games/",
 ];
 const ALLOWED = new Set([
   "https://free.consolecheat.com",
