@@ -4,7 +4,7 @@ export type Lang = (typeof LANGS)[number];
 const en = {
   unofficial: "Unofficial. Not Sony.",
   title: "Every free PS game and demo.",
-  lede: "Pick your store region. Add one title through PlayStation checkout, or paste pdccws_p and send every free game and demo in that region to the cart.",
+  lede: "Pick your store region. Add one title through PlayStation checkout, or paste pdccws_p and send every free game and demo in that region to the cart. The list includes PS4, PS5, PS3 and PS Vita demos.",
   cookie: "pdccws_p cookie",
   cookieHelp: "Only needed for the automatic add. It stays in this browser tab.",
   save: "Save cookie",
@@ -48,7 +48,7 @@ const en = {
 const de: Record<keyof typeof en, string> = {
   unofficial: "Inoffiziell. Nicht von Sony.",
   title: "Jedes kostenlose PS-Spiel und jede Demo.",
-  lede: "Region wählen. Ein Titel über die PlayStation-Kasse, oder pdccws_p einfügen und alle kostenlosen Spiele und Demos dieser Region in den Warenkorb legen.",
+  lede: "Region wählen. Ein Titel über die PlayStation-Kasse, oder pdccws_p einfügen und alle kostenlosen Spiele und Demos dieser Region in den Warenkorb legen. Dabei sind auch PS3- und PS-Vita-Demos.",
   cookie: "pdccws_p-Cookie",
   cookieHelp: "Nur fürs automatische Hinzufügen. Bleibt in diesem Browser-Tab.",
   save: "Cookie speichern",
