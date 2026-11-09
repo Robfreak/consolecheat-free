@@ -1,0 +1,554 @@
+[
+  {
+    "id": "ar",
+    "label": "Argentina",
+    "locale": "es-AR",
+    "count": 1107,
+    "games": 327,
+    "demos": 780
+  },
+  {
+    "id": "au",
+    "label": "Australia",
+    "locale": "en-AU",
+    "count": 1038,
+    "games": 334,
+    "demos": 704
+  },
+  {
+    "id": "at",
+    "label": "Austria",
+    "locale": "de-AT",
+    "count": 1038,
+    "games": 333,
+    "demos": 705
+  },
+  {
+    "id": "bh",
+    "label": "Bahrain",
+    "locale": "en-BH",
+    "count": 1041,
+    "games": 360,
+    "demos": 681
+  },
+  {
+    "id": "be",
+    "label": "Belgium",
+    "locale": "nl-BE",
+    "count": 1007,
+    "games": 305,
+    "demos": 702
+  },
+  {
+    "id": "bo",
+    "label": "Bolivia",
+    "locale": "es-BO",
+    "count": 1133,
+    "games": 367,
+    "demos": 766
+  },
+  {
+    "id": "br",
+    "label": "Brazil",
+    "locale": "pt-BR",
+    "count": 1093,
+    "games": 320,
+    "demos": 773
+  },
+  {
+    "id": "bg",
+    "label": "Bulgaria",
+    "locale": "en-BG",
+    "count": 1041,
+    "games": 333,
+    "demos": 708
+  },
+  {
+    "id": "ca",
+    "label": "Canada",
+    "locale": "en-CA",
+    "count": 1128,
+    "games": 338,
+    "demos": 790
+  },
+  {
+    "id": "cl",
+    "label": "Chile",
+    "locale": "es-CL",
+    "count": 1111,
+    "games": 329,
+    "demos": 782
+  },
+  {
+    "id": "co",
+    "label": "Colombia",
+    "locale": "es-CO",
+    "count": 1150,
+    "games": 369,
+    "demos": 781
+  },
+  {
+    "id": "cr",
+    "label": "Costa Rica",
+    "locale": "es-CR",
+    "count": 1133,
+    "games": 367,
+    "demos": 766
+  },
+  {
+    "id": "hr",
+    "label": "Croatia",
+    "locale": "en-HR",
+    "count": 1040,
+    "games": 332,
+    "demos": 708
+  },
+  {
+    "id": "cy",
+    "label": "Cyprus",
+    "locale": "en-CY",
+    "count": 1075,
+    "games": 367,
+    "demos": 708
+  },
+  {
+    "id": "cz",
+    "label": "Czechia",
+    "locale": "en-CZ",
+    "count": 1041,
+    "games": 333,
+    "demos": 708
+  },
+  {
+    "id": "dk",
+    "label": "Denmark",
+    "locale": "da-DK",
+    "count": 1033,
+    "games": 332,
+    "demos": 701
+  },
+  {
+    "id": "ec",
+    "label": "Ecuador",
+    "locale": "es-EC",
+    "count": 1133,
+    "games": 367,
+    "demos": 766
+  },
+  {
+    "id": "sv",
+    "label": "El Salvador",
+    "locale": "es-SV",
+    "count": 1133,
+    "games": 367,
+    "demos": 766
+  },
+  {
+    "id": "fi",
+    "label": "Finland",
+    "locale": "fi-FI",
+    "count": 1032,
+    "games": 331,
+    "demos": 701
+  },
+  {
+    "id": "fr",
+    "label": "France",
+    "locale": "fr-FR",
+    "count": 1041,
+    "games": 336,
+    "demos": 705
+  },
+  {
+    "id": "de",
+    "label": "Germany",
+    "locale": "de-DE",
+    "count": 761,
+    "games": 257,
+    "demos": 504
+  },
+  {
+    "id": "gr",
+    "label": "Greece",
+    "locale": "en-GR",
+    "count": 1042,
+    "games": 334,
+    "demos": 708
+  },
+  {
+    "id": "gt",
+    "label": "Guatemala",
+    "locale": "es-GT",
+    "count": 1133,
+    "games": 367,
+    "demos": 766
+  },
+  {
+    "id": "hn",
+    "label": "Honduras",
+    "locale": "es-HN",
+    "count": 1133,
+    "games": 367,
+    "demos": 766
+  },
+  {
+    "id": "hk",
+    "label": "Hong Kong",
+    "locale": "en-HK",
+    "count": 833,
+    "games": 206,
+    "demos": 627
+  },
+  {
+    "id": "hu",
+    "label": "Hungary",
+    "locale": "en-HU",
+    "count": 1040,
+    "games": 332,
+    "demos": 708
+  },
+  {
+    "id": "is",
+    "label": "Iceland",
+    "locale": "en-IS",
+    "count": 1073,
+    "games": 366,
+    "demos": 707
+  },
+  {
+    "id": "in",
+    "label": "India",
+    "locale": "en-IN",
+    "count": 1034,
+    "games": 331,
+    "demos": 703
+  },
+  {
+    "id": "id",
+    "label": "Indonesia",
+    "locale": "en-ID",
+    "count": 836,
+    "games": 212,
+    "demos": 624
+  },
+  {
+    "id": "ie",
+    "label": "Ireland",
+    "locale": "en-IE",
+    "count": 1041,
+    "games": 334,
+    "demos": 707
+  },
+  {
+    "id": "il",
+    "label": "Israel",
+    "locale": "en-IL",
+    "count": 1032,
+    "games": 331,
+    "demos": 701
+  },
+  {
+    "id": "it",
+    "label": "Italy",
+    "locale": "it-IT",
+    "count": 1040,
+    "games": 335,
+    "demos": 705
+  },
+  {
+    "id": "jp",
+    "label": "Japan",
+    "locale": "ja-JP",
+    "count": 856,
+    "games": 236,
+    "demos": 620
+  },
+  {
+    "id": "kr",
+    "label": "Korea",
+    "locale": "ko-KR",
+    "count": 720,
+    "games": 192,
+    "demos": 528
+  },
+  {
+    "id": "kw",
+    "label": "Kuwait",
+    "locale": "en-KW",
+    "count": 1000,
+    "games": 322,
+    "demos": 678
+  },
+  {
+    "id": "lb",
+    "label": "Lebanon",
+    "locale": "en-LB",
+    "count": 1038,
+    "games": 360,
+    "demos": 678
+  },
+  {
+    "id": "lu",
+    "label": "Luxembourg",
+    "locale": "fr-LU",
+    "count": 1036,
+    "games": 333,
+    "demos": 703
+  },
+  {
+    "id": "my",
+    "label": "Malaysia",
+    "locale": "en-MY",
+    "count": 837,
+    "games": 214,
+    "demos": 623
+  },
+  {
+    "id": "mt",
+    "label": "Malta",
+    "locale": "en-MT",
+    "count": 1073,
+    "games": 366,
+    "demos": 707
+  },
+  {
+    "id": "mx",
+    "label": "Mexico",
+    "locale": "es-MX",
+    "count": 1119,
+    "games": 333,
+    "demos": 786
+  },
+  {
+    "id": "nl",
+    "label": "Netherlands",
+    "locale": "nl-NL",
+    "count": 1027,
+    "games": 326,
+    "demos": 701
+  },
+  {
+    "id": "nz",
+    "label": "New Zealand",
+    "locale": "en-NZ",
+    "count": 1037,
+    "games": 334,
+    "demos": 703
+  },
+  {
+    "id": "ni",
+    "label": "Nicaragua",
+    "locale": "es-NI",
+    "count": 1133,
+    "games": 367,
+    "demos": 766
+  },
+  {
+    "id": "no",
+    "label": "Norway",
+    "locale": "no-NO",
+    "count": 1032,
+    "games": 332,
+    "demos": 700
+  },
+  {
+    "id": "om",
+    "label": "Oman",
+    "locale": "en-OM",
+    "count": 1027,
+    "games": 356,
+    "demos": 671
+  },
+  {
+    "id": "pa",
+    "label": "Panama",
+    "locale": "es-PA",
+    "count": 1133,
+    "games": 367,
+    "demos": 766
+  },
+  {
+    "id": "py",
+    "label": "Paraguay",
+    "locale": "es-PY",
+    "count": 1134,
+    "games": 368,
+    "demos": 766
+  },
+  {
+    "id": "pe",
+    "label": "Peru",
+    "locale": "es-PE",
+    "count": 1149,
+    "games": 368,
+    "demos": 781
+  },
+  {
+    "id": "pl",
+    "label": "Poland",
+    "locale": "pl-PL",
+    "count": 1032,
+    "games": 331,
+    "demos": 701
+  },
+  {
+    "id": "pt",
+    "label": "Portugal",
+    "locale": "pt-PT",
+    "count": 1036,
+    "games": 333,
+    "demos": 703
+  },
+  {
+    "id": "qa",
+    "label": "Qatar",
+    "locale": "en-QA",
+    "count": 999,
+    "games": 323,
+    "demos": 676
+  },
+  {
+    "id": "ro",
+    "label": "Romania",
+    "locale": "en-RO",
+    "count": 1074,
+    "games": 367,
+    "demos": 707
+  },
+  {
+    "id": "ru",
+    "label": "Russia",
+    "locale": "ru-RU",
+    "count": 896,
+    "games": 258,
+    "demos": 638
+  },
+  {
+    "id": "sa",
+    "label": "Saudi Arabia",
+    "locale": "ar-SA",
+    "count": 914,
+    "games": 329,
+    "demos": 585
+  },
+  {
+    "id": "sg",
+    "label": "Singapore",
+    "locale": "en-SG",
+    "count": 841,
+    "games": 216,
+    "demos": 625
+  },
+  {
+    "id": "sk",
+    "label": "Slovakia",
+    "locale": "en-SK",
+    "count": 1075,
+    "games": 368,
+    "demos": 707
+  },
+  {
+    "id": "si",
+    "label": "Slovenia",
+    "locale": "en-SI",
+    "count": 1041,
+    "games": 333,
+    "demos": 708
+  },
+  {
+    "id": "za",
+    "label": "South Africa",
+    "locale": "en-ZA",
+    "count": 1041,
+    "games": 331,
+    "demos": 710
+  },
+  {
+    "id": "es",
+    "label": "Spain",
+    "locale": "es-ES",
+    "count": 1043,
+    "games": 337,
+    "demos": 706
+  },
+  {
+    "id": "se",
+    "label": "Sweden",
+    "locale": "sv-SE",
+    "count": 1032,
+    "games": 332,
+    "demos": 700
+  },
+  {
+    "id": "ch",
+    "label": "Switzerland",
+    "locale": "de-CH",
+    "count": 1038,
+    "games": 334,
+    "demos": 704
+  },
+  {
+    "id": "tw",
+    "label": "Taiwan",
+    "locale": "zh-TW",
+    "count": 771,
+    "games": 187,
+    "demos": 584
+  },
+  {
+    "id": "th",
+    "label": "Thailand",
+    "locale": "en-TH",
+    "count": 836,
+    "games": 211,
+    "demos": 625
+  },
+  {
+    "id": "tr",
+    "label": "Turkey",
+    "locale": "tr-TR",
+    "count": 1013,
+    "games": 327,
+    "demos": 686
+  },
+  {
+    "id": "ua",
+    "label": "Ukraine",
+    "locale": "uk-UA",
+    "count": 1016,
+    "games": 328,
+    "demos": 688
+  },
+  {
+    "id": "ae",
+    "label": "United Arab Emirates",
+    "locale": "en-AE",
+    "count": 962,
+    "games": 322,
+    "demos": 640
+  },
+  {
+    "id": "gb",
+    "label": "United Kingdom",
+    "locale": "en-GB",
+    "count": 1043,
+    "games": 336,
+    "demos": 707
+  },
+  {
+    "id": "us",
+    "label": "United States",
+    "locale": "en-US",
+    "count": 1131,
+    "games": 341,
+    "demos": 790
+  },
+  {
+    "id": "uy",
+    "label": "Uruguay",
+    "locale": "es-UY",
+    "count": 1133,
+    "games": 367,
+    "demos": 766
+  }
+]
